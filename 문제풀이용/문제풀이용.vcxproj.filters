@@ -57,7 +57,7 @@
     <ClCompile Include="동적배열과 퀵정렬을 사용한 최대 최소값 구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="free.c">
+    <ClCompile Include="사전의 문자 세기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="행렬곱셈.c">
@@ -72,10 +72,20 @@
     <ClCompile Include="strcmp.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="test.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
+    <ClCompile Include="2022-1 i-Keeper 코딩테스트 5번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1929번 소수구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2108번 통계학.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱 ㄴㄴ 수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬제곱.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
