@@ -93,5 +93,8 @@
     <ClCompile Include="전화번호 누르기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="백준 소수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
